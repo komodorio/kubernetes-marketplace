@@ -1,0 +1,16 @@
+---
+name: komodor
+title: "Komodor"
+version: "3.3.0"
+maintainer: "@udi"
+description: "<udi to add>"
+url: https://www.komodor.com
+category: monitoring
+plans:
+- label: "Komodor configurations"
+  configuration:
+    KOMODOR_API_KEY:
+      value: ""
+    KOMODOR_CLUSTER_NAME:
+      value: ""
+
